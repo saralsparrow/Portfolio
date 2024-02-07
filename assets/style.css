@@ -65,6 +65,16 @@ main div {
     margin-right: 20%;
 }
 
+.title a img {
+    height: 170px;
+    border: 5px solid black;
+}
+
+.title a img:hover {
+    height: 200px;
+    border: 10px solid pink;
+}
+
 #contact-info ul{
     list-style-type: none;
 }
